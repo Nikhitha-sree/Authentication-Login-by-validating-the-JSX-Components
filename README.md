@@ -1,0 +1,2 @@
+# Authentication-Login-by-validating-the-JSX-Components
+A simple React-based authentication login page with username and password validation. It checks password requirements and displays appropriate success or error messages. The project uses React Hooks (`useState`) and inline CSS styling to create a clean user interface. It also includes a forgot password functionality for better user experience.
